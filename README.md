@@ -118,18 +118,7 @@ Actualmente profundizo mi formación en **AWS e inteligencia artificial generati
   </tr>
 </table>
 
-## Estadísticas
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Manuel-Cavina&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=F3E9D2&text_color=A9C6D9&icon_color=5FA8D3" alt="Estadísticas de GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Cavina&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=F3E9D2&text_color=A9C6D9" alt="Lenguajes más utilizados" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manuel-Cavina&bg_color=0D1B2A&color=F3E9D2&line=5FA8D3&point=F3E9D2&area=true&hide_border=true" alt="Gráfico de actividad" />
-</div>
-
-## Contribuciones 3D
+## Actividad y contribuciones
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Contribuciones 3D" />
