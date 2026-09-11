@@ -25,6 +25,14 @@ También soy cofundador de **ESDEC - Elite Sports Development**, donde participo
 
 Actualmente profundizo mi formación en **AWS e inteligencia artificial generativa**, buscando crear soluciones útiles, escalables y conectadas con problemas reales.
 
+## Roadmap de aprendizaje
+
+<div align="center">
+  <img src="./assets/aws-roadmap.svg" width="100%" alt="Roadmap de certificaciones AWS: AI Practitioner al 40 por ciento, Cloud Practitioner como siguiente objetivo y especializaciones futuras" />
+</div>
+
+Mi objetivo actual es completar **AWS Certified AI Practitioner**. Luego continuaré con **Cloud Practitioner** para consolidar los fundamentos de la nube y avanzar progresivamente hacia certificaciones de arquitectura, datos y Machine Learning.
+
 ## Mis dos perfiles
 
 <table>
@@ -41,6 +49,15 @@ Actualmente profundizo mi formación en **AWS e inteligencia artificial generati
     </td>
   </tr>
 </table>
+
+## Logros destacados
+
+- Cofundador de **ESDEC - Elite Sports Development** y participante activo en el análisis, diseño y desarrollo de su plataforma digital.
+- Desarrollo y publicación de los sitios web de **ESDEC** y **Odisea Marketing**.
+- Construcción de **AYCI**, una aplicación Full Stack desarrollada desde la arquitectura y el modelo de datos hasta el frontend, backend y autenticación.
+- Certificación **Machine Learning with Python** de IBM / Coursera.
+- Certificación **Introduction to Deep Learning & Neural Networks with Keras** de IBM / Coursera.
+- Formación de quinto año en **Ingeniería en Sistemas de Información** en la UTN Córdoba.
 
 ## Tecnologías
 
@@ -117,12 +134,6 @@ Actualmente profundizo mi formación en **AWS e inteligencia artificial generati
     </td>
   </tr>
 </table>
-
-## Actividad y contribuciones
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Contribuciones 3D" />
-</div>
 
 ## Formación y certificaciones
 
