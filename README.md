@@ -39,9 +39,23 @@
 
 ## 02 · Mis contribuciones
 
-<div align="center">
-  <img src="./assets/contributions-3d.svg" width="100%" alt="Resumen tridimensional de contribuciones en GitHub" />
-</div>
+Elegí la perspectiva que querés consultar:
+
+<details open>
+  <summary><strong>Últimos 12 meses</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./assets/contributions-3d.svg" width="100%" alt="Contribuciones tridimensionales de los últimos doce meses" />
+  </div>
+</details>
+
+<details>
+  <summary><strong>Año actual · 2026</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./assets/contributions-3d-2026.svg" width="100%" alt="Contribuciones tridimensionales del año 2026" />
+  </div>
+</details>
 
 <p align="center">
   <a href="https://github.com/Manuel-Cavina?tab=overview"><strong>Explorar mi actividad completa →</strong></a>
