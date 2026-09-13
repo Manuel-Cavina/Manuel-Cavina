@@ -103,14 +103,19 @@ Elegí la perspectiva que querés consultar:
 ## 04 · Mis objetivos
 
 <div align="center">
-  <img src="./assets/aws-roadmap.svg" width="100%" alt="Roadmap de certificaciones AWS" />
+  <img src="./assets/aws-roadmap.svg" width="100%" alt="Roadmap profesional hacia Data Engineer y Machine Learning Engineer" />
 </div>
 
-- 🎯 **Objetivo actual:** completar AWS Certified AI Practitioner. Progreso: **40%**.
-- ☁️ **Siguiente etapa:** AWS Certified Cloud Practitioner.
-- 🏗️ **Profundización:** arquitectura de soluciones escalables en AWS.
-- 📊 **Especialización:** ingeniería de datos y Machine Learning sobre la nube.
-- 💼 **Meta profesional:** aportar en equipos reales y construir productos con impacto medible.
+Mi objetivo no termina en obtener certificaciones: las utilizo como hitos para construir experiencia práctica y avanzar hacia un perfil profesional especializado.
+
+- 🎯 **Ahora:** completar AWS Certified AI Practitioner. Progreso: **40%**.
+- ☁️ **Fundamentos cloud:** AWS Certified Cloud Practitioner.
+- 🏗️ **Arquitectura:** AWS Certified Solutions Architect – Associate.
+- ⚙️ **Experiencia aplicada:** crear soluciones reales con infraestructura, automatización, seguridad y monitoreo en AWS.
+- 📊 **Especialización en datos:** AWS Certified Data Engineer – Associate, pipelines ETL/ELT, data lakes, procesamiento y analítica.
+- 🤖 **Especialización en ML:** AWS Certified Machine Learning Engineer – Associate, entrenamiento, despliegue, evaluación y monitoreo de modelos.
+- 🔄 **Nivel avanzado:** profundizar en DataOps, MLOps, arquitecturas distribuidas y sistemas de IA en producción.
+- 🚀 **Resultado profesional:** consolidarme como **Data Engineer + Machine Learning Engineer**, capaz de diseñar el flujo completo desde la captura del dato hasta un modelo funcionando en producción.
 
 ---
 
