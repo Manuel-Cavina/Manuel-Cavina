@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
-  <title id="title">Roadmap de certificaciones AWS</title>
-  <desc id="desc">AI Practitioner en progreso al 40 por ciento, seguida por Cloud Practitioner, Solutions Architect Associate y especializaciones en Data y Machine Learning</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+  <title id="title">Roadmap profesional hacia Data Engineer y Machine Learning Engineer</title>
+  <desc id="desc">Ruta desde AWS AI Practitioner hasta un perfil profesional combinado de Data Engineering y Machine Learning Engineering</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#081521"/>
@@ -10,54 +10,94 @@
       <stop offset="0" stop-color="#5FA8D3"/>
       <stop offset="1" stop-color="#F3E9D2"/>
     </linearGradient>
+    <linearGradient id="goal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F3E9D2"/>
+      <stop offset="1" stop-color="#D9C9A7"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="500" rx="24" fill="url(#bg)"/>
-  <text x="70" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#F3E9D2">AWS CERTIFICATION ROADMAP</text>
-  <text x="70" y="102" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#A9C6D9">Ruta de formación en nube, arquitectura, datos e inteligencia artificial</text>
+  <rect width="1200" height="850" rx="24" fill="url(#bg)"/>
+  <text x="70" y="62" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#F3E9D2">ROADMAP PROFESIONAL · CLOUD, DATA &amp; MACHINE LEARNING</text>
+  <text x="70" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#A9C6D9">Las certificaciones son hitos. La meta es diseñar y llevar soluciones de datos e IA a producción.</text>
 
-  <g transform="translate(70 140)">
-    <rect width="1060" height="114" rx="18" fill="#102E46" stroke="#5FA8D3" stroke-width="2"/>
+  <g transform="translate(70 130)">
+    <rect width="1060" height="112" rx="18" fill="#102E46" stroke="#5FA8D3" stroke-width="2"/>
     <circle cx="50" cy="42" r="22" fill="#5FA8D3"/>
     <text x="50" y="49" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#081521">01</text>
     <text x="88" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#F3E9D2">AWS Certified AI Practitioner</text>
-    <text x="88" y="65" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#A9C6D9">Objetivo actual · En progreso</text>
-    <rect x="615" y="36" width="365" height="24" rx="12" fill="#081521"/>
-    <rect x="615" y="36" width="146" height="24" rx="12" fill="url(#progress)"/>
-    <text x="1000" y="55" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">40%</text>
-    <text x="615" y="88" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Fundamentos de IA · GenAI · Bedrock · IA responsable</text>
+    <text x="88" y="66" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#A9C6D9">Etapa actual · Fundamentos de IA, GenAI, Bedrock e IA responsable</text>
+    <rect x="680" y="35" width="300" height="24" rx="12" fill="#081521"/>
+    <rect x="680" y="35" width="120" height="24" rx="12" fill="url(#progress)"/>
+    <text x="1000" y="54" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">40%</text>
+    <text x="680" y="84" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">EN PROGRESO</text>
   </g>
 
-  <path d="M120 254V288H1080" fill="none" stroke="#5FA8D3" stroke-width="3" stroke-dasharray="8 8" opacity=".75"/>
+  <path d="M600 242V274" fill="none" stroke="#5FA8D3" stroke-width="3" stroke-dasharray="7 7"/>
 
-  <g transform="translate(70 302)">
+  <text x="70" y="298" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">ETAPA 1 · BASE CLOUD Y ARQUITECTURA</text>
+
+  <g transform="translate(70 318)">
     <g>
-      <rect width="242" height="132" rx="16" fill="#102E46" stroke="#F3E9D2"/>
-      <text x="22" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">SIGUIENTE PASO</text>
-      <text x="22" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">Cloud Practitioner</text>
-      <text x="22" y="98" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Fundamentos generales</text>
-      <text x="22" y="118" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">de AWS Cloud</text>
+      <rect width="340" height="120" rx="16" fill="#102E46" stroke="#F3E9D2"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">02 · FUNDAMENTOS</text>
+      <text x="22" y="63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">Cloud Practitioner</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Servicios, seguridad, costos</text>
+      <text x="22" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">y operación de AWS</text>
     </g>
-    <g transform="translate(272)">
-      <rect width="242" height="132" rx="16" fill="#102E46" stroke="#2F6690"/>
-      <text x="22" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">ARQUITECTURA</text>
-      <text x="22" y="67" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Solutions Architect</text>
-      <text x="22" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Associate</text>
-      <text x="22" y="116" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Diseño de soluciones</text>
+    <path d="M340 60H360" stroke="#5FA8D3" stroke-width="3"/>
+    <g transform="translate(360)">
+      <rect width="340" height="120" rx="16" fill="#102E46" stroke="#2F6690"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">03 · ARQUITECTURA</text>
+      <text x="22" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Solutions Architect – Associate</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Sistemas seguros, resilientes,</text>
+      <text x="22" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">escalables y eficientes</text>
     </g>
-    <g transform="translate(544)">
-      <rect width="242" height="132" rx="16" fill="#102E46" stroke="#2F6690"/>
-      <text x="22" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">ESPECIALIZACIÓN</text>
-      <text x="22" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">Data Engineer</text>
-      <text x="22" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">Associate</text>
-      <text x="22" y="116" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Pipelines y analítica</text>
-    </g>
-    <g transform="translate(816)">
-      <rect width="244" height="132" rx="16" fill="#102E46" stroke="#2F6690"/>
-      <text x="22" y="36" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">ESPECIALIZACIÓN</text>
-      <text x="22" y="68" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Machine Learning</text>
-      <text x="22" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Engineer Associate</text>
-      <text x="22" y="116" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">ML sobre AWS</text>
+    <path d="M700 60H720" stroke="#5FA8D3" stroke-width="3"/>
+    <g transform="translate(720)">
+      <rect width="340" height="120" rx="16" fill="#102E46" stroke="#2F6690"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">04 · EXPERIENCIA REAL</text>
+      <text x="22" y="63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">Proyectos en producción</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Infraestructura, automatización,</text>
+      <text x="22" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">seguridad y monitoreo</text>
     </g>
   </g>
+
+  <text x="70" y="482" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">ETAPA 2 · ESPECIALIZACIÓN TÉCNICA</text>
+
+  <g transform="translate(70 502)">
+    <g>
+      <rect width="340" height="126" rx="16" fill="#102E46" stroke="#2F6690"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">05 · DATA ENGINEERING</text>
+      <text x="22" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#F3E9D2">Data Engineer – Associate</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">ETL/ELT · Data lakes · Calidad</text>
+      <text x="22" y="109" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Procesamiento y analítica</text>
+    </g>
+    <path d="M340 63H360" stroke="#5FA8D3" stroke-width="3"/>
+    <g transform="translate(360)">
+      <rect width="340" height="126" rx="16" fill="#102E46" stroke="#2F6690"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">06 · MACHINE LEARNING</text>
+      <text x="22" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#F3E9D2">ML Engineer – Associate</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Entrenamiento · Despliegue</text>
+      <text x="22" y="109" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Evaluación y monitoreo</text>
+    </g>
+    <path d="M700 63H720" stroke="#5FA8D3" stroke-width="3"/>
+    <g transform="translate(720)">
+      <rect width="340" height="126" rx="16" fill="#102E46" stroke="#2F6690"/>
+      <text x="22" y="32" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#5FA8D3">07 · NIVEL AVANZADO</text>
+      <text x="22" y="63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F3E9D2">DataOps &amp; MLOps</text>
+      <text x="22" y="89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">Orquestación, CI/CD, observabilidad</text>
+      <text x="22" y="109" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#A9C6D9">y sistemas distribuidos</text>
+    </g>
+  </g>
+
+  <path d="M600 628V666" fill="none" stroke="#5FA8D3" stroke-width="3" stroke-dasharray="7 7"/>
+
+  <g transform="translate(70 668)">
+    <rect width="1060" height="130" rx="20" fill="url(#goal)" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="530" y="32" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#173B57">RESULTADO PROFESIONAL</text>
+    <text x="530" y="70" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800" fill="#081521">DATA ENGINEER + MACHINE LEARNING ENGINEER</text>
+    <text x="530" y="100" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#173B57">Del dato crudo a pipelines escalables, modelos desplegados y productos de IA en producción</text>
+  </g>
+
+  <text x="600" y="826" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9C6D9">CERTIFICACIONES + PROYECTOS + EXPERIENCIA = PERFIL PROFESIONAL</text>
 </svg>
