@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-  <title id="title">Contribuciones reales de Manuel Cavina en 3D</title>
-  <desc id="desc">Calendario tridimensional construido con los niveles semanales visibles en GitHub entre septiembre de 2025 y septiembre de 2026</desc>
+  <title id="title">Manuel Cavina's real GitHub contributions in 3D</title>
+  <desc id="desc">Three-dimensional calendar based on GitHub activity from September 2025 to September 2026</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07131F"/>
@@ -13,12 +13,12 @@
   </defs>
   <rect width="1200" height="520" rx="25" fill="url(#bg)"/>
   <circle cx="1110" cy="34" r="170" fill="#5FA8D3" opacity=".06"/>
-  <text x="58" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800" fill="#F3E9D2">CONTRIBUCIONES EN 3D</text>
-  <text x="58" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#A9C6D9">Cada bloque representa un día real; su altura indica el nivel de actividad.</text>
+  <text x="58" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800" fill="#F3E9D2">3D GITHUB CONTRIBUTIONS</text>
+  <text x="58" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#A9C6D9">Each block represents one day; its height reflects the activity level.</text>
   <g transform="translate(927 32)">
     <rect width="214" height="72" rx="16" fill="#F3E9D2"/>
     <text x="107" y="32" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800" fill="#173B57">539</text>
-    <text x="107" y="54" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" fill="#2F6690">ÚLTIMOS 12 MESES</text>
+    <text x="107" y="54" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" fill="#2F6690">LAST 12 MONTHS</text>
   </g>
   <text x="71" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">SEP</text><text x="128" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">OCT</text><text x="204" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">NOV</text><text x="299" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">DEC</text><text x="375" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">JAN</text><text x="451" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">FEB</text><text x="527" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">MAR</text><text x="603" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">APR</text><text x="698" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">MAY</text><text x="774" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">JUN</text><text x="850" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">JUL</text><text x="926" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">AUG</text><text x="1021" y="152" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" fill="#71879A">SEP</text>
   <g filter="url(#shadow)"><g>
@@ -395,13 +395,13 @@
       <polygon points="227,385.5 214,392.5 214,402.5 227,395.5" fill="#0B4E28"/>
     </g><polygon points="117,395.9 130,388.9 143,395.9 130,402.9" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="182,397.6 195,390.6 208,397.6 195,404.6" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="98,398 111,391 124,398 111,405" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="163,399.7 176,392.7 189,399.7 176,406.7" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="144,401.8 157,394.8 170,401.8 157,408.8" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="125,403.9 138,396.9 151,403.9 138,410.9" fill="#16232E" stroke="#243443" stroke-width=".7"/><polygon points="106,406 119,399 132,406 119,413" fill="#16232E" stroke="#243443" stroke-width=".7"/></g>
   <g transform="translate(779 469)">
-    <text x="-720" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#71879A">ACTIVIDAD REGISTRADA · SEP 2025 — SEP 2026</text>
-    <text x="0" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9C6D9">MENOS</text>
+    <text x="-720" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#71879A">RECORDED ACTIVITY · SEP 2025 — SEP 2026</text>
+    <text x="0" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9C6D9">LESS</text>
     <rect x="56" y="-13" width="18" height="11" rx="2" fill="#16232E"/>
     <rect x="82" y="-13" width="18" height="11" rx="2" fill="#0E6232"/>
     <rect x="108" y="-13" width="18" height="11" rx="2" fill="#178A43"/>
     <rect x="134" y="-13" width="18" height="11" rx="2" fill="#2DBA59"/>
     <rect x="160" y="-13" width="18" height="11" rx="2" fill="#55D979"/>
-    <text x="190" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9C6D9">MÁS</text>
+    <text x="190" y="0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#A9C6D9">MORE</text>
   </g>
 </svg>
