@@ -1,49 +1,55 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Manuel Cavina Pellis - Full Stack, Data e Inteligencia Artificial" />
+  <img src="./assets/banner.svg" width="100%" alt="Manuel Cavina Pellis — Full Stack, Data and Artificial Intelligence" />
 </div>
 
-<h3 align="center">Construyo soluciones que combinan desarrollo, datos e inteligencia artificial.</h3>
+<h3 align="center">I build solutions that connect software development, data and artificial intelligence.</h3>
 
 <p align="center">
-  Estudiante avanzado de Ingeniería en Sistemas · Cofundador de ESDEC · Córdoba, Argentina
+  Final-year Information Systems Engineering student · Co-founder of ESDEC · Córdoba, Argentina
 </p>
 
 <div align="center">
-  <a href="mailto:manuelcavina1234@gmail.com"><img src="https://img.shields.io/badge/CONTACTAR-F3E9D2?style=for-the-badge&logo=gmail&logoColor=173B57" alt="Contactar por Gmail" /></a>
+  <a href="mailto:manuelcavina1234@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-F3E9D2?style=for-the-badge&logo=gmail&logoColor=173B57" alt="Contact me by email" /></a>
   <a href="https://www.linkedin.com/in/manuel-cavina/"><img src="https://img.shields.io/badge/LINKEDIN-2F6690?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="https://github.com/Manuel-Cavina"><img src="https://img.shields.io/badge/VER_PROYECTOS-173B57?style=for-the-badge&logo=github&logoColor=F3E9D2" alt="GitHub" /></a>
+  <a href="https://github.com/Manuel-Cavina"><img src="https://img.shields.io/badge/VIEW_PROJECTS-173B57?style=for-the-badge&logo=github&logoColor=F3E9D2" alt="GitHub projects" /></a>
 </div>
 
 ---
 
-## 01 · Mis dos perfiles
+## 01 · About Me
+
+I am a final-year **Information Systems Engineering student at UTN Córdoba**, focused on Full Stack development, Data and AI. As co-founder of **ESDEC**, I combine technology, product thinking and business understanding to turn real problems into scalable digital solutions.
+
+---
+
+## 02 · Two Professional Paths
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Desarrollo Full Stack</h3>
-      <p align="center">Convierto una idea en una aplicación completa: arquitectura, datos, backend, frontend, autenticación y experiencia de usuario.</p>
+      <h3 align="center">⚡ Full Stack Development</h3>
+      <p align="center">I turn ideas into complete applications, covering architecture, data, backend, frontend, authentication and user experience.</p>
       <p align="center"><strong>React · Next.js · NestJS · TypeScript · FastAPI · PostgreSQL</strong></p>
-      <p align="center"><em>Productos funcionales, mantenibles y preparados para crecer.</em></p>
+      <p align="center"><em>Functional, maintainable products designed to grow.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Datos & Inteligencia Artificial</h3>
-      <p align="center">Transformo datos en información útil mediante análisis, visualización, modelos predictivos y redes neuronales.</p>
+      <h3 align="center">📊 Data & Artificial Intelligence</h3>
+      <p align="center">I transform data into useful information through analysis, visualization, predictive models and neural networks.</p>
       <p align="center"><strong>Python · Pandas · NumPy · Power BI · Scikit-learn · TensorFlow</strong></p>
-      <p align="center"><em>Decisiones respaldadas por datos y modelos evaluables.</em></p>
+      <p align="center"><em>Decisions supported by data and measurable models.</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 02 · Mis habilidades
+## 03 · Skills & Tools
 
-Estas son las herramientas con las que construyo productos web y soluciones basadas en datos.
+These are the technologies I use to build web products and data-driven solutions.
 
 <div align="center">
 
-### Lenguajes
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-173B57?style=for-the-badge&logo=python&logoColor=F3E9D2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F3E9D2?style=for-the-badge&logo=javascript&logoColor=173B57)
@@ -51,7 +57,7 @@ Estas son las herramientas con las que construyo productos web y soluciones basa
 ![Java](https://img.shields.io/badge/Java-173B57?style=for-the-badge&logo=openjdk&logoColor=F3E9D2)
 ![SQL](https://img.shields.io/badge/SQL-F3E9D2?style=for-the-badge&logo=postgresql&logoColor=173B57)
 
-### Desarrollo
+### Development
 
 ![React](https://img.shields.io/badge/React-173B57?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-F3E9D2?style=for-the-badge&logo=nextdotjs&logoColor=173B57)
@@ -59,7 +65,7 @@ Estas son las herramientas con las que construyo productos web y soluciones basa
 ![FastAPI](https://img.shields.io/badge/FastAPI-173B57?style=for-the-badge&logo=fastapi&logoColor=F3E9D2)
 ![Docker](https://img.shields.io/badge/Docker-2F6690?style=for-the-badge&logo=docker&logoColor=white)
 
-### Datos & IA
+### Data & AI
 
 ![Pandas](https://img.shields.io/badge/Pandas-173B57?style=for-the-badge&logo=pandas&logoColor=F3E9D2)
 ![NumPy](https://img.shields.io/badge/NumPy-F3E9D2?style=for-the-badge&logo=numpy&logoColor=173B57)
@@ -68,7 +74,7 @@ Estas son las herramientas con las que construyo productos web y soluciones basa
 ![Keras](https://img.shields.io/badge/Keras-F3E9D2?style=for-the-badge&logo=keras&logoColor=173B57)
 ![Power BI](https://img.shields.io/badge/Power_BI-2F6690?style=for-the-badge&logo=powerbi&logoColor=white)
 
-### Datos, infraestructura y herramientas
+### Databases, Infrastructure & Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-173B57?style=for-the-badge&logo=postgresql&logoColor=F3E9D2)
 ![MySQL](https://img.shields.io/badge/MySQL-F3E9D2?style=for-the-badge&logo=mysql&logoColor=173B57)
@@ -81,88 +87,82 @@ Estas son las herramientas con las que construyo productos web y soluciones basa
 
 ---
 
-## 03 · Mis contribuciones
+## 04 · GitHub Activity
 
 <p align="center">
-  <strong>Actividad de desarrollo en GitHub</strong><br />
-  <sub>Constancia, aprendizaje y productos construidos durante los últimos 12 meses.</sub>
+  <strong>Development activity on GitHub</strong><br />
+  <sub>Consistency, continuous learning and products built over the last 12 months.</sub>
 </p>
 
 <div align="center">
-  <img src="./assets/contributions-3d.svg" width="96%" alt="Contribuciones tridimensionales de los últimos doce meses" />
+  <img src="./assets/contributions-3d.svg" width="96%" alt="Three-dimensional GitHub contributions from the last twelve months" />
 </div>
 
 <details>
-  <summary><strong>📅 Ver solamente el año actual · 2026</strong></summary>
+  <summary><strong>📅 View current year only · 2026</strong></summary>
   <br />
   <div align="center">
-    <img src="./assets/contributions-3d-2026.svg" width="96%" alt="Contribuciones tridimensionales del año 2026" />
+    <img src="./assets/contributions-3d-2026.svg" width="96%" alt="Three-dimensional GitHub contributions during 2026" />
   </div>
 </details>
 
 <p align="center">
-  <a href="https://github.com/Manuel-Cavina?tab=overview"><strong>Explorar toda mi actividad en GitHub →</strong></a>
+  <a href="https://github.com/Manuel-Cavina?tab=overview"><strong>Explore my complete GitHub activity →</strong></a>
 </p>
 
 ---
 
-## 04 · Mis proyectos
+## 05 · Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏃 ESDEC</h3>
-      <p><strong>Producto deportivo integral.</strong> Plataforma para conectar clubes, deportistas, entrenadores y profesionales mediante planificación, seguimiento, salud, bienestar y datos.</p>
-      <p><strong>Mi aporte:</strong> análisis funcional, arquitectura del producto y desarrollo web.</p>
+      <p><strong>Integrated sports technology product.</strong> A platform designed to connect clubs, athletes, coaches and professionals through planning, performance tracking, health, well-being and data.</p>
+      <p><strong>My role:</strong> functional analysis, product architecture and web development.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code></p>
-      <p><a href="https://esdec.com.ar/"><strong>Visitar producto →</strong></a> · <a href="https://github.com/Manuel-Cavina/ESDEC">Código</a></p>
+      <p><a href="https://esdec.com.ar/"><strong>Visit product →</strong></a> · <a href="https://github.com/Manuel-Cavina/ESDEC">Source code</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Odisea Marketing</h3>
-      <p><strong>Presencia digital orientada a conversión.</strong> Sitio responsive creado para comunicar servicios, identidad y propuesta comercial de forma clara y atractiva.</p>
-      <p><strong>Mi aporte:</strong> desarrollo web, estructura de contenidos e implementación visual.</p>
+      <p><strong>A digital presence designed for conversion.</strong> A responsive website built to communicate the agency's services, identity and commercial value clearly and attractively.</p>
+      <p><strong>My role:</strong> web development, content structure and visual implementation.</p>
       <p><code>Web Development</code> <code>Responsive UI</code> <code>UX</code></p>
-      <p><a href="https://www.odiseamarketing.com/"><strong>Visitar sitio →</strong></a></p>
+      <p><a href="https://www.odiseamarketing.com/"><strong>Visit website →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌧️ Rainfall Prediction</h3>
-      <p><strong>Machine Learning aplicado.</strong> Pipeline de clasificación con preparación de datos, feature engineering, validación cruzada, ajuste de hiperparámetros y evaluación de métricas.</p>
+      <p><strong>Applied Machine Learning.</strong> A classification pipeline including data preparation, feature engineering, cross-validation, hyperparameter tuning and model evaluation.</p>
       <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
-      <p><em>Repositorio próximo a publicarse.</em></p>
+      <p><em>Repository coming soon.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Deep Learning con Keras</h3>
-      <p><strong>Redes neuronales para clasificación.</strong> Diseño y entrenamiento de arquitecturas densas, experimentación con hiperparámetros y análisis del rendimiento del modelo.</p>
+      <h3>🧠 Deep Learning with Keras</h3>
+      <p><strong>Neural networks for classification.</strong> Design and training of dense neural architectures, hyperparameter experimentation and performance analysis.</p>
       <p><code>Python</code> <code>Keras</code> <code>TensorFlow</code></p>
-      <p><em>Repositorio próximo a publicarse.</em></p>
+      <p><em>Repository coming soon.</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 05 · Un poco sobre mí
+## 06 · Highlights
 
-Soy estudiante de quinto año de **Ingeniería en Sistemas de Información en la UTN Córdoba**, próximo a egresar. Me gusta comprender el problema completo antes de escribir código: quién lo necesita, qué valor debe generar y cómo construir una solución que pueda mantenerse y evolucionar.
-
-Como cofundador de **ESDEC - Elite Sports Development**, combino análisis de sistemas, producto, tecnología y visión de negocio. Paralelamente, profundizo mi formación en AWS, Machine Learning e inteligencia artificial generativa para integrar esas capacidades en productos reales.
-
-### Logros que respaldan mi recorrido
-
-- Cofundador y analista de sistemas de **ESDEC**.
-- Desarrollo y publicación de los sitios de **ESDEC** y **Odisea Marketing**.
-- Construcción integral de **AYCI**, desde la arquitectura y el modelo de datos hasta frontend, backend y autenticación.
-- Certificación **Machine Learning with Python** — IBM / Coursera.
-- Certificación **Introduction to Deep Learning & Neural Networks with Keras** — IBM / Coursera.
-- Quinto año de **Ingeniería en Sistemas de Información** — UTN FRC.
+- Co-founder and systems analyst at **ESDEC**.
+- Developed and launched the **ESDEC** and **Odisea Marketing** websites.
+- Built **AYCI** end to end, from architecture and data modeling to frontend, backend and authentication.
+- **Machine Learning with Python** certification — IBM / Coursera.
+- **Introduction to Deep Learning & Neural Networks with Keras** certification — IBM / Coursera.
+- Final-year **Information Systems Engineering** student — UTN FRC.
 
 ---
 
 <div align="center">
-  <h3>¿Tenés una idea, un desafío o un producto para construir?</h3>
-  <p>Conectemos desarrollo, datos e inteligencia artificial para convertirlo en una solución real.</p>
-  <a href="mailto:manuelcavina1234@gmail.com"><img src="https://img.shields.io/badge/HABLEMOS-F3E9D2?style=for-the-badge&logo=gmail&logoColor=173B57" alt="Contactar a Manuel" /></a>
-  <a href="https://www.linkedin.com/in/manuel-cavina/"><img src="https://img.shields.io/badge/CONECTAR_EN_LINKEDIN-2F6690?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Manuel" /></a>
+  <h3>Have an idea, a challenge or a product to build?</h3>
+  <p>Let's connect software development, data and artificial intelligence to turn it into a real solution.</p>
+  <a href="mailto:manuelcavina1234@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-F3E9D2?style=for-the-badge&logo=gmail&logoColor=173B57" alt="Contact Manuel" /></a>
+  <a href="https://www.linkedin.com/in/manuel-cavina/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2F6690?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manuel's LinkedIn profile" /></a>
 </div>
