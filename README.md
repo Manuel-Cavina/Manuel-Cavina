@@ -37,89 +37,9 @@
 
 ---
 
-## 02 · Mis contribuciones
+## 02 · Mis habilidades
 
-Elegí la perspectiva que querés consultar:
-
-<details open>
-  <summary><strong>Últimos 12 meses</strong></summary>
-  <br />
-  <div align="center">
-    <img src="./assets/contributions-3d.svg" width="100%" alt="Contribuciones tridimensionales de los últimos doce meses" />
-  </div>
-</details>
-
-<details>
-  <summary><strong>Año actual · 2026</strong></summary>
-  <br />
-  <div align="center">
-    <img src="./assets/contributions-3d-2026.svg" width="100%" alt="Contribuciones tridimensionales del año 2026" />
-  </div>
-</details>
-
-<p align="center">
-  <a href="https://github.com/Manuel-Cavina?tab=overview"><strong>Explorar mi actividad completa →</strong></a>
-</p>
-
----
-
-## 03 · Mis proyectos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏃 ESDEC</h3>
-      <p><strong>Producto deportivo integral.</strong> Plataforma para conectar clubes, deportistas, entrenadores y profesionales mediante planificación, seguimiento, salud, bienestar y datos.</p>
-      <p><strong>Mi aporte:</strong> análisis funcional, arquitectura del producto y desarrollo web.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code></p>
-      <p><a href="https://esdec.com.ar/"><strong>Visitar producto →</strong></a> · <a href="https://github.com/Manuel-Cavina/ESDEC">Código</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Odisea Marketing</h3>
-      <p><strong>Presencia digital orientada a conversión.</strong> Sitio responsive creado para comunicar servicios, identidad y propuesta comercial de forma clara y atractiva.</p>
-      <p><strong>Mi aporte:</strong> desarrollo web, estructura de contenidos e implementación visual.</p>
-      <p><code>Web Development</code> <code>Responsive UI</code> <code>UX</code></p>
-      <p><a href="https://www.odiseamarketing.com/"><strong>Visitar sitio →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌧️ Rainfall Prediction</h3>
-      <p><strong>Machine Learning aplicado.</strong> Pipeline de clasificación con preparación de datos, feature engineering, validación cruzada, ajuste de hiperparámetros y evaluación de métricas.</p>
-      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
-      <p><em>Repositorio próximo a publicarse.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Deep Learning con Keras</h3>
-      <p><strong>Redes neuronales para clasificación.</strong> Diseño y entrenamiento de arquitecturas densas, experimentación con hiperparámetros y análisis del rendimiento del modelo.</p>
-      <p><code>Python</code> <code>Keras</code> <code>TensorFlow</code></p>
-      <p><em>Repositorio próximo a publicarse.</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 04 · Mis objetivos
-
-<div align="center">
-  <img src="./assets/aws-roadmap.svg" width="100%" alt="Roadmap profesional hacia Data Engineer y Machine Learning Engineer" />
-</div>
-
-Mi objetivo no termina en obtener certificaciones: las utilizo como hitos para construir experiencia práctica y avanzar hacia un perfil profesional especializado.
-
-- 🎯 **Ahora:** completar AWS Certified AI Practitioner. Progreso: **40%**.
-- ☁️ **Fundamentos cloud:** AWS Certified Cloud Practitioner.
-- 🏗️ **Arquitectura:** AWS Certified Solutions Architect – Associate.
-- ⚙️ **Experiencia aplicada:** crear soluciones reales con infraestructura, automatización, seguridad y monitoreo en AWS.
-- 📊 **Especialización en datos:** AWS Certified Data Engineer – Associate, pipelines ETL/ELT, data lakes, procesamiento y analítica.
-- 🤖 **Especialización en ML:** AWS Certified Machine Learning Engineer – Associate, entrenamiento, despliegue, evaluación y monitoreo de modelos.
-- 🔄 **Nivel avanzado:** profundizar en DataOps, MLOps, arquitecturas distribuidas y sistemas de IA en producción.
-- 🚀 **Resultado profesional:** consolidarme como **Data Engineer + Machine Learning Engineer**, capaz de diseñar el flujo completo desde la captura del dato hasta un modelo funcionando en producción.
-
----
-
-## 05 · Mis tecnologías
+Estas son las herramientas con las que construyo productos web y soluciones basadas en datos.
 
 <div align="center">
 
@@ -161,7 +81,69 @@ Mi objetivo no termina en obtener certificaciones: las utilizo como hitos para c
 
 ---
 
-## 06 · Un poco sobre mí
+## 03 · Mis contribuciones
+
+<p align="center">
+  <strong>Actividad de desarrollo en GitHub</strong><br />
+  <sub>Constancia, aprendizaje y productos construidos durante los últimos 12 meses.</sub>
+</p>
+
+<div align="center">
+  <img src="./assets/contributions-3d.svg" width="96%" alt="Contribuciones tridimensionales de los últimos doce meses" />
+</div>
+
+<details>
+  <summary><strong>📅 Ver solamente el año actual · 2026</strong></summary>
+  <br />
+  <div align="center">
+    <img src="./assets/contributions-3d-2026.svg" width="96%" alt="Contribuciones tridimensionales del año 2026" />
+  </div>
+</details>
+
+<p align="center">
+  <a href="https://github.com/Manuel-Cavina?tab=overview"><strong>Explorar toda mi actividad en GitHub →</strong></a>
+</p>
+
+---
+
+## 04 · Mis proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏃 ESDEC</h3>
+      <p><strong>Producto deportivo integral.</strong> Plataforma para conectar clubes, deportistas, entrenadores y profesionales mediante planificación, seguimiento, salud, bienestar y datos.</p>
+      <p><strong>Mi aporte:</strong> análisis funcional, arquitectura del producto y desarrollo web.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+      <p><a href="https://esdec.com.ar/"><strong>Visitar producto →</strong></a> · <a href="https://github.com/Manuel-Cavina/ESDEC">Código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Odisea Marketing</h3>
+      <p><strong>Presencia digital orientada a conversión.</strong> Sitio responsive creado para comunicar servicios, identidad y propuesta comercial de forma clara y atractiva.</p>
+      <p><strong>Mi aporte:</strong> desarrollo web, estructura de contenidos e implementación visual.</p>
+      <p><code>Web Development</code> <code>Responsive UI</code> <code>UX</code></p>
+      <p><a href="https://www.odiseamarketing.com/"><strong>Visitar sitio →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌧️ Rainfall Prediction</h3>
+      <p><strong>Machine Learning aplicado.</strong> Pipeline de clasificación con preparación de datos, feature engineering, validación cruzada, ajuste de hiperparámetros y evaluación de métricas.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
+      <p><em>Repositorio próximo a publicarse.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Deep Learning con Keras</h3>
+      <p><strong>Redes neuronales para clasificación.</strong> Diseño y entrenamiento de arquitecturas densas, experimentación con hiperparámetros y análisis del rendimiento del modelo.</p>
+      <p><code>Python</code> <code>Keras</code> <code>TensorFlow</code></p>
+      <p><em>Repositorio próximo a publicarse.</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 05 · Un poco sobre mí
 
 Soy estudiante de quinto año de **Ingeniería en Sistemas de Información en la UTN Córdoba**, próximo a egresar. Me gusta comprender el problema completo antes de escribir código: quién lo necesita, qué valor debe generar y cómo construir una solución que pueda mantenerse y evolucionar.
 
