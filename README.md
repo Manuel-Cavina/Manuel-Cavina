@@ -2,10 +2,10 @@
   <img src="./assets/banner.svg" width="100%" alt="Manuel Cavina Pellis — Full Stack, Data and Artificial Intelligence" />
 </div>
 
-<h3 align="center">I build solutions that connect software development, data and artificial intelligence.</h3>
+<h3 align="center">Building my career toward Data Engineering and AI Engineering.</h3>
 
 <p align="center">
-  Final-year Information Systems Engineering student · Co-founder of ESDEC · Córdoba, Argentina
+  Data & AI career focus · Full Stack project experience · Co-founder of ESDEC
 </p>
 
 <div align="center">
@@ -18,25 +18,29 @@
 
 ## 01 · About Me
 
-I am a final-year **Information Systems Engineering student at UTN Córdoba**, focused on Full Stack development, Data and AI. As co-founder of **ESDEC**, I combine technology, product thinking and business understanding to turn real problems into scalable digital solutions.
+I am a final-year **Information Systems Engineering student at UTN Córdoba**.
+
+My career goal is to grow into a **Data Engineer / AI Engineer**, building reliable data pipelines and intelligent solutions that can operate in real production environments.
+
+I also have hands-on **Full Stack development knowledge** and have built complete web projects. This experience helps me understand how data and AI capabilities become part of useful, scalable digital products.
 
 ---
 
-## 02 · Two Professional Paths
+## 02 · Technical Profile
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Full Stack Development</h3>
-      <p align="center">I turn ideas into complete applications, covering architecture, data, backend, frontend, authentication and user experience.</p>
-      <p align="center"><strong>React · Next.js · NestJS · TypeScript · FastAPI · PostgreSQL</strong></p>
-      <p align="center"><em>Functional, maintainable products designed to grow.</em></p>
+      <h3 align="center">📊 Data & AI · Career Focus</h3>
+      <p align="center">I work with data analysis, visualization, predictive models and neural networks while developing the engineering foundations required to build production-ready data and AI systems.</p>
+      <p align="center"><strong>Python · Pandas · NumPy · Power BI · Scikit-learn · TensorFlow</strong></p>
+      <p align="center"><em>Growing toward Data Engineering and AI Engineering.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Data & Artificial Intelligence</h3>
-      <p align="center">I transform data into useful information through analysis, visualization, predictive models and neural networks.</p>
-      <p align="center"><strong>Python · Pandas · NumPy · Power BI · Scikit-learn · TensorFlow</strong></p>
-      <p align="center"><em>Decisions supported by data and measurable models.</em></p>
+      <h3 align="center">⚡ Full Stack · Project Experience</h3>
+      <p align="center">I have hands-on experience building web projects across architecture, databases, backend, frontend, authentication and user experience.</p>
+      <p align="center"><strong>React · Next.js · NestJS · TypeScript · FastAPI · PostgreSQL</strong></p>
+      <p align="center"><em>End-to-end knowledge gained through real projects.</em></p>
     </td>
   </tr>
 </table>
