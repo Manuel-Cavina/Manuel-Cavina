@@ -30,10 +30,10 @@
   <rect x="72" y="62" width="7" height="236" rx="3.5" fill="url(#accent)"/>
   <text x="110" y="112" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="4" fill="#A9C6D9">MANUEL CAVINA PELLIS</text>
   <text x="106" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="51" font-weight="800" fill="#F3E9D2">FULL STACK · DATA · AI</text>
-  <text x="110" y="224" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#A9C6D9">Transformo ideas en productos digitales útiles y escalables.</text>
+  <text x="110" y="224" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#A9C6D9">I turn ideas into useful, scalable digital products.</text>
   <g transform="translate(110 258)">
     <rect width="318" height="39" rx="19.5" fill="#F3E9D2"/>
-    <text x="159" y="26" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#173B57">INGENIERÍA EN SISTEMAS · UTN FRC</text>
+    <text x="159" y="26" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#173B57">INFORMATION SYSTEMS ENGINEERING · UTN FRC</text>
   </g>
-  <text x="110" y="335" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#7FC2E8">Córdoba, Argentina · Construyendo con propósito</text>
+  <text x="110" y="335" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#7FC2E8">Córdoba, Argentina · Building with purpose</text>
 </svg>
