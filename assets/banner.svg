@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Manuel Cavina Pellis - Full Stack, Data e Inteligencia Artificial</title>
-  <desc id="desc">Banner profesional azul y crema</desc>
+  <title id="title">Manuel Cavina Pellis - Data Engineering and AI Engineering</title>
+  <desc id="desc">Professional blue and cream profile banner</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07131F"/>
@@ -29,11 +29,11 @@
   </g>
   <rect x="72" y="62" width="7" height="236" rx="3.5" fill="url(#accent)"/>
   <text x="110" y="112" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="4" fill="#A9C6D9">MANUEL CAVINA PELLIS</text>
-  <text x="106" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="51" font-weight="800" fill="#F3E9D2">FULL STACK · DATA · AI</text>
-  <text x="110" y="224" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#A9C6D9">I turn ideas into useful, scalable digital products.</text>
+  <text x="106" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="51" font-weight="800" fill="#F3E9D2">DATA ENGINEERING · AI ENGINEERING</text>
+  <text x="110" y="224" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" fill="#A9C6D9">Building reliable data systems and intelligent solutions.</text>
   <g transform="translate(110 258)">
     <rect width="318" height="39" rx="19.5" fill="#F3E9D2"/>
     <text x="159" y="26" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#173B57">INFORMATION SYSTEMS ENGINEERING · UTN FRC</text>
   </g>
-  <text x="110" y="335" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#7FC2E8">Córdoba, Argentina · Building with purpose</text>
+  <text x="110" y="335" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#7FC2E8">Córdoba, Argentina · From data to real-world impact</text>
 </svg>
